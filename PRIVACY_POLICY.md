@@ -1,8 +1,8 @@
-# Privacy Policy for Ascend
+# Privacy Policy for Peak Fitness
 
-**Last Updated: February 6, 2026**
+**Last Updated: February 7, 2026**
 
-No Pressure Just Results LLC ("we", "our", or "us") operates the Ascend mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
+No Pressure Just Results LLC ("we", "our", or "us") operates the Peak Fitness mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
 
 ## Information We Collect
 
@@ -57,7 +57,7 @@ You have the right to:
 
 ## Children's Privacy
 
-Ascend is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+Peak Fitness is not intended for children under 13. We do not knowingly collect personal information from children under 13.
 
 ## Changes to This Policy
 
